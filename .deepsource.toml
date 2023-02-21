@@ -4,3 +4,6 @@ version = 1
 name = "javascript"
   [analyzers.meta]
   environment = ["nodejs"]
+
+[[analyzers]]
+name = "secrets"
